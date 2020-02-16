@@ -1,1 +1,2 @@
 # BankManagement
+This program uses the concept of OOP to break the program into simpler functions. This program begins with the declaration of class variables as arrays to store the user defined no of datas.The algorithm is simple. Through the simple CLI created within the program the user will command the CPU to store, modify and display the data as per user's choice. The program works like a mini database that stores the information about the bank employees 
